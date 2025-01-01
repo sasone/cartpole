@@ -1,0 +1,1 @@
+The original paper by Barto, Sutton and Anderson, "Neuronlink Adaptive Elements That Can Solve Difficult Learning Control Problems", IEEE Transactions on Systems, Man, and Cybernetics, Vol SMC-13, No. 5, Septermber/October 1983
