@@ -1,7 +1,7 @@
 # cartpole
 An Artificial Neural Network (ANN) for Cart-pole controller
 
-This was the college project executed as part of the Bachelor of Computer Science, NIE, Musuru, 1994.
+This was the college project executed as part of the Bachelor of Computer Science, National Institute of Engineering, Mysuru, 1994.
 
 The project is based on the academic paper "Neuronlike Adaptive Elements That Can Solve Difficult Learning Control Problems", Andrew G. Barto, Richard S. Sutton, and Charles W. Anderson, IEEE Transactions on Systems, Man, and Cybernetics, Vol. SMC-13, No. 5, September/October 1983.
 
